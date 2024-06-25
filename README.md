@@ -1,4 +1,4 @@
-# Project Title
+# Chatgpt clone with Ollama
 
 This repository contains a simple Go web server application demonstrating the use of various Go packages for web development, including chi for routing, godotenv for environment variable management, and custom packages for business logic.
 
@@ -8,7 +8,8 @@ This repository contains a simple Go web server application demonstrating the us
 - Routing: Utilizes the chi router for handling web requests with middleware support.
 - Environment Variables: Uses godotenv to load environment variables from a .env file, facilitating easy configuration management.
 - Graceful Shutdown: Supports graceful shutdown on receiving interrupt signals, ensuring that ongoing requests are not abruptly terminated.
-Custom Business Logic: Incorporates custom packages llms and ollama for specific business logic, demonstrating how to structure a Go application with external modules.
+Custom Business 
+- Logic: Incorporates ollama as the LLM.
 
 ## Getting Started
 
