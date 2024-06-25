@@ -26,7 +26,6 @@ Custom Business
 git clone https://github.com/ana-sofia-silva/chatgpt-clone-ollama
 ```
 
-
 2. Navigate to the cloned directory.
 
 3. Load environment variables (optional):
