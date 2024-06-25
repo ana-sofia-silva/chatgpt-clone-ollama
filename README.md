@@ -27,11 +27,7 @@ git clone https://github.com/ana-sofia-silva/chatgpt-clone-ollama
 ```
 
 
-2. Navigate to the cloned directory:
-
-```bash 
-cd ana-sofia-silva/chatgpt-clone-ollama
-```
+2. Navigate to the cloned directory.
 
 3. Load environment variables (optional):
     - Create a .env file in the root directory.
